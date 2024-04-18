@@ -1,18 +1,19 @@
 <script>
-    import { Gallery, Button } from 'flowbite-svelte';
+    import Gallery from '$lib/Gallery.svelte'
+    import { Button } from 'flowbite-svelte';
     const images = [
-      { alt: 'eisvogel', src: 'voegel/eisvogel.jpg' },
-      { alt: 'buntspecht', src: 'voegel/buntspecht.jpg' },
-      { alt: 'graureiher', src: 'voegel/graureiher.jpg' },
-      { alt: 'elster', src: 'voegel/elster.jpg' },
-      { alt: 'stockente', src: 'voegel/stockente02.jpg' },
-      { alt: 'storch', src: 'voegel/storch.jpg' },
-      { alt: 'taube', src: 'voegel/taube04.jpg' },
-      { alt: 'uhu', src: 'voegel/uhu.jpg' },
-      { alt: 'neuntoeter', src: 'voegel/neuntoeter.jpg' },
-      { alt: 'rotkehlchen', src: 'voegel/rotkehlchen.jpg' },
-      { alt: 'schwan', src: 'voegel/schwan.jpg' },
-      { alt: 'buntspecht', src: 'voegel/buntspecht.jpg' }
+      { alt: 'eisvogel', src: 'voegel/eisvogel.jpg', "modal": false },
+      { alt: 'buntspecht', src: 'voegel/buntspecht.jpg', "modal": false },
+      { alt: 'graureiher', src: 'voegel/graureiher.jpg', "modal": false },
+      { alt: 'elster', src: 'voegel/elster.jpg', "modal": false },
+      { alt: 'stockente', src: 'voegel/stockente02.jpg' , "modal": false },
+      { alt: 'storch', src: 'voegel/storch.jpg' , "modal": false },
+      { alt: 'taube', src: 'voegel/taube04.jpg' , "modal": false },
+      { alt: 'uhu', src: 'voegel/uhu.jpg' , "modal": false },
+      { alt: 'neuntoeter', src: 'voegel/neuntoeter.jpg' , "modal": false },
+      { alt: 'rotkehlchen', src: 'voegel/rotkehlchen.jpg' , "modal": false },
+      { alt: 'schwan', src: 'voegel/schwan.jpg' , "modal": false },
+      { alt: 'buntspecht', src: 'voegel/buntspecht.jpg', "modal": false }
     ];
   </script>
   

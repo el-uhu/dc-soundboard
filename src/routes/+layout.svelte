@@ -1,6 +1,7 @@
 <script>
 	import '../app.pcss';
 	import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Footer, FooterBrand, FooterCopyright, FooterIcon, FooterLink, FooterLinkGroup } from 'flowbite-svelte';
+	export const prerender = true;
 </script>
 
 <Navbar  >
