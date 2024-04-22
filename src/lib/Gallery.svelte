@@ -31,13 +31,37 @@
             </Heading>
 
             <Img src={item.src} size="max-w-md" alignment="mx-auto" alt={item.name} />
+
+            <Heading tag="h4"
+            customSize="text-xl font-extrabold ">
+              <Secondary class="ms-2">Familie</Secondary>
+              {item.family}
+           </Heading>
             
-            <p class="text-base leading-relaxed text-gray-500 dark:text-gray-400">
-                {item.text}
-            </p>
-            <div class="flex items-center justify-center">
-                <iframe src='https://xeno-canto.org/{item.xenoCantoID}/embed' scrolling='no' frameborder='0' width='520px' height='220'></iframe>
-            </div>
+           <Heading tag="h4"
+           customSize="text-xl font-extrabold ">
+             <Secondary class="ms-2">Lebensraum</Secondary>
+             {item.habitat}
+          </Heading>
+
+          <Heading tag="h4"
+          customSize="text-xl font-extrabold ">
+            <Secondary class="ms-2">Größe</Secondary>
+            {item.size}
+         </Heading>
+
+         <Heading tag="h4"
+         customSize="text-xl font-extrabold ">
+           <Secondary class="ms-2">Gewicht</Secondary>
+           {item.weight}
+        </Heading>
+
+          <p class="text-base leading-relaxed text-gray-500 dark:text-gray-400">
+              {item.characteristics}
+          </p>
+          <div class="flex items-center justify-center">
+              <iframe src='https://xeno-canto.org/{item.xenoCantoID}/embed' scrolling='no' frameborder='0' width='520px' height='220'></iframe>
+          </div>
           </Modal>
       </slot>
     {:else}

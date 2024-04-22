@@ -1,0 +1,122 @@
+[
+    { 
+        "src": "voegel/eisvogel.jpg", 
+        "modal": false, 
+        "name": "Eisvogel",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Id aute est et consectetur officia veniam qui adipisicing magna deserunt amet sint voluptate. Id velit velit qui velit mollit aliqua anim id dolore. Reprehenderit exercitation sit irure cillum exercitation anim magna sit proident sint magna ut dolor. Commodo pariatur dolor officia minim occaecat. Non aliquip tempor reprehenderit occaecat et ad magna sit Lorem amet dolore aliqua amet ullamco. Quis id sint anim labore dolor dolor adipisicing nulla non. Dolor adipisicing pariatur eiusmod ea enim dolor elit cillum.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/buntspecht.jpg", 
+        "modal": false, 
+        "name": "Buntspecht",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Excepteur sunt commodo duis culpa nostrud ex occaecat Lorem quis amet. Reprehenderit esse voluptate magna anim. Proident esse officia mollit fugiat ex. Enim ut amet id est qui.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/graureiher.jpg", 
+        "modal": false, 
+        "name": "Graureiher",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Velit exercitation sunt nostrud cillum aute minim magna commodo. Ullamco veniam nostrud culpa excepteur sunt et ad exercitation exercitation. Nulla aliquip excepteur consequat tempor aute qui officia ipsum anim cillum.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/elster.jpg", 
+        "modal": false, 
+        "name": "Elster",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Irure quis reprehenderit do aliquip aute. Enim eiusmod excepteur reprehenderit in ipsum magna proident ut. Magna esse consectetur eiusmod reprehenderit non. Amet aute deserunt nisi ut laboris eu laboris est occaecat ea velit pariatur. Adipisicing culpa voluptate consequat ipsum sit aute Lorem excepteur aute. Aliqua aliqua aliquip ut exercitation irure et culpa nulla aute nostrud ullamco sit cupidatat.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/stockente02.jpg" , 
+        "modal": false, 
+        "name": "Stockente",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Ad ex labore exercitation reprehenderit quis tempor cupidatat. Eiusmod pariatur sunt velit in esse sit occaecat exercitation aute laborum nostrud reprehenderit aliqua. Tempor eiusmod mollit Lorem pariatur laborum esse do. Labore deserunt officia labore eiusmod. Voluptate cupidatat officia officia anim cillum. Ad nostrud sit culpa nisi et nulla non cupidatat elit. Id ullamco eiusmod aliquip in nostrud anim aliquip exercitation.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/storch.jpg" , 
+        "modal": false, 
+        "name": "Storch",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Tempor proident et elit mollit qui aliqua consequat magna deserunt ad aute duis. Pariatur aliqua magna excepteur voluptate labore et elit. Aute non culpa sit consectetur.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/taube04.jpg" , 
+        "modal": false, 
+        "name": "Taube",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Ullamco eu tempor eu elit aliqua occaecat cupidatat sit officia. Minim pariatur et sit non minim labore eu. Ipsum mollit velit nostrud officia incididunt qui esse pariatur ea est aute laborum cupidatat excepteur. Laboris magna quis elit proident incididunt pariatur incididunt. Laboris laborum tempor aliqua enim magna amet cupidatat nulla occaecat. Ad mollit officia et commodo sunt.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/uhu.jpg" , 
+        "modal": false, 
+        "name": "Uhu",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Magna sint adipisicing esse cillum minim eiusmod ex voluptate cupidatat duis. Consectetur proident duis ea amet pariatur mollit esse voluptate eu culpa. Eiusmod excepteur quis ipsum culpa enim nisi reprehenderit adipisicing anim aute. Ipsum cupidatat dolor laborum incididunt. Qui est consequat incididunt mollit eu consectetur deserunt excepteur. Consequat magna culpa cillum in sunt consectetur ipsum deserunt magna et aliquip elit et minim. Laboris nulla ea irure fugiat.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/neuntoeter.jpg" , 
+        "modal": false, 
+        "name": "Neuntöter",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Pariatur voluptate enim laborum eu. Elit est dolore dolore voluptate veniam esse proident dolore nisi labore. Nostrud sint excepteur dolor sit officia est amet ullamco anim veniam sit irure nostrud.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/rotkehlchen.jpg" , 
+        "modal": false, 
+        "name": "Rotkehlchen",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Ipsum ea id excepteur veniam do tempor. Sit eiusmod laborum aute minim excepteur veniam enim labore do adipisicing sunt. Exercitation labore nisi adipisicing proident. Cillum enim velit ipsum ad sit nostrud adipisicing cillum minim proident sunt amet duis.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/schwan.jpg" , 
+        "modal": false, 
+        "name": "Schwan",
+        "scientific": "",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Anim deserunt duis consectetur proident in eiusmod. Magna eiusmod ipsum qui quis. Exercitation elit proident velit dolor ipsum consectetur velit esse duis ad. Mollit nostrud sint ut nisi. Nostrud ullamco incididunt duis est proident commodo elit nisi Lorem esse sit ea qui. Aute velit fugiat officia voluptate irure enim laboris et occaecat sunt irure.",
+        "xenoCantoID": "895779"
+    },
+    { 
+        "src": "voegel/buntspecht.jpg", 
+        "modal": false, 
+        "name": "Buntspecht",
+        "scientific": "Dendrocopos major",
+        "habitat": "Habitat",
+        "characteristics": "Characteristics",
+        "text": "Fugiat eu velit sint anim elit exercitation ipsum anim commodo dolor. In labore fugiat ex duis labore cupidatat eiusmod ullamco aliqua ullamco in do culpa velit. Occaecat labore nulla laborum cupidatat ad tempor proident Lorem ea minim. Ex nisi sunt fugiat aute irure non velit pariatur et elit amet. Proident aute nostrud culpa elit Lorem ullamco non enim ut dolor. Aliqua ut id veniam anim dolor ea esse ea dolor amet anim reprehenderit.",
+        "xenoCantoID": "895779"
+    }
+]
